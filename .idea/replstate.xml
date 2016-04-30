@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1462030691782">{:repl-history {:ide [], :local [&quot;-main&quot; &quot;(+ 1 1)&quot; &quot;(shires-next-top-model.core/-main)&quot; &quot;(shires-next-top-model.core/asym-body-hobbit-parts)&quot; &quot;(load-file \&quot;core.clj\&quot;)&quot; &quot;(load-file \&quot;src/shires_next_top_model/core.clj\&quot;)&quot; &quot;(-main)&quot;], :remote []}}</component>
+</project>
